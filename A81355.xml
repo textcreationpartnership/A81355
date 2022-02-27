@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The discription causes, and discovery, or symptomes of a church papist, or popish Protestant, which may stand in stead this yeare, 1642. Which by reason that this searching Parliament, and wonderfull conjunction of happy planets, hath proved so sickly and crazy unto the Romish constitutions, that it is to be suspected that some of them will flye into churches, for remedy though not for conversion.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81355</idno>
+            <idno type="STC">Wing D1140</idno>
+            <idno type="STC">Thomason E143_10</idno>
+            <idno type="STC">ESTC R646</idno>
+            <idno type="EEBO-CITATION">99872995</idno>
+            <idno type="PROQUEST">99872995</idno>
+            <idno type="VID">156601</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81355)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156601)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 25:E143[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The discription causes, and discovery, or symptomes of a church papist, or popish Protestant, which may stand in stead this yeare, 1642. Which by reason that this searching Parliament, and wonderfull conjunction of happy planets, hath proved so sickly and crazy unto the Romish constitutions, that it is to be suspected that some of them will flye into churches, for remedy though not for conversion.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J.T.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholics --  England --  Early works to 1800.</term>
+               <term>Papacy --  Early works to 1800.</term>
+               <term>Great Britain --  Religion --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156601:1" rendition="simple:additions"/>
+            <p>THE DISCRIPTION, Cauſes, and Diſcovery, or Symptomes of a Church Papiſt, or Popiſh Proteſtant, which may ſtand in ſtead this Yeare, 1642.</p>
+            <p>Which by Reaſon that this ſearching Parliament, and won<g ref="char:EOLhyphen"/>derfull Conjunction of happy Planets, hath proved ſo Sickly and Crazy unto the Romiſh Conſtitutions, That it is to be ſuſpected that ſome of them will flye into Chur<g ref="char:EOLhyphen"/>ches, for Remedy though not for Converſion.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>J. T.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156601:2"/>
+            <pb facs="tcp:156601:2"/>
+            <head>The Diſcription, Cauſes, and Means of Diſcoveries or Symptomes of a Church Papiſt or Popiſh Proteſtant.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Kingdome being lately (prayſed bee God) reaſonable well purged and cleanſed from the open and publike profeſſion, and almoſt uncontroulable Remedileſſe ſprea<g ref="char:EOLhyphen"/>ding, Contagion of Idolatry, by the whole<g ref="char:EOLhyphen"/>ſome, Sage, Mature, and prevalent Reme<g ref="char:EOLhyphen"/>dies of that never ſufficiently Renowned Colledge of able Phyſitians now ſitting im Parliament, who by purging ſome from the Putrifaction of their inveiglement, vomitting up from others their ill conceived rotten humors of inbred indiſpoſedneſſe towards the welfare of this Church and State, dyetting theſe with the Superſedeas of Employ<g ref="char:EOLhyphen"/>ment in any nature whatſoever, That ſo the force of naturall vigor (J meane Jnrellectuall parts) if any were left untainted and not yet turned unto the malignant corruption (as is the nature of that ſuperſtitious infection) firſt, to ſeize the under<g ref="char:EOLhyphen"/>ſtanding, and to bleare, if not utterly put out reaſon, ſhutting up thoſe from comming to Court, or ſuch a diſtance of, where, for their owne parts it is too manifeſt what peſtilentiall Ve<g ref="char:EOLhyphen"/>nome of Superſtition by them was wrought any occaſioned, by words, by Smels, by Breath, yea by Letters, Collections, <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>aths, Guifts, Embracings, by placing, feare of diſplacing, ſo that not onely the Carbuncles, and Vlcers of Superſtition roſe upon perſons of great Note in Court, whereby it appea<g ref="char:EOLhyphen"/>red that they were ſtrucke with the diſeaſe (openly inclining to ſuperſtition) and the tokens came forth in great numbers,
+<pb facs="tcp:156601:3"/>declaring that they were deſperately, and irrecoverably gone in't, debarring theſe from the City, whoſe hopeleſſe depth in the malady had made them ſenceles of their ſickeneſſe, yea had caſt them into ſuch a Lethargic, that they tooke them<g ref="char:EOLhyphen"/>ſelves to be the onely ſound People, and all the world beſide infected, yea to the height of predominacie (within theſe few yeares) mounted this almoſt Epidemicall diſeaſe, that in not onely ſeemed ſtronger them all remedies, but roſe a<g ref="char:EOLhyphen"/>gainſt, reſiſted, contrived the ruine and deſtruction of this wiſe and Honourable Aſſembly, and now being mad with a Melancholicke mallice (whereof that diſeaſe is very guilty) and poſeſt with an unſatiable deſire of tainting others, wher<g ref="char:EOLhyphen"/>unto all infectious diſtempers are very ſubject (thinking all that differ from them, condemne them) that they became very dangerous, yea more perillous to others then to them<g ref="char:EOLhyphen"/>ſelves, threatning ſubverſion to thoſe that would nor permit, but refulſed to proPogate, maintaine, cheriſh, and foment their Romiſh Calenture, with Dyet, Aire, Company, and Garments thereto conducing as now no malady forfooth, becauſe generall as well for places where it was, as for per<g ref="char:EOLhyphen"/>ſons of quallity taken with it.</p>
+            <p>But the perfect ſoundneſſe and firme ſanctity, which this great and honourable Colledge, taking into their deepeſt conſideration, ſeeing that lenitive and gentle medicines would not take that wiſhed effect, that they all deſired it might, and that either the ſound and cleere Members muſt infallibly be drawne into ſenſible damage, or theſe peccant humours immediately, taken order with, and ſo were forced contrary to the mildneſſe of their diſpoſition to proceed un<g ref="char:EOLhyphen"/>to ſharper remedies; letting ſome blood with the Lances of their Juſtice, by the publique Chirurgion, and notable Phle<g ref="char:EOLhyphen"/>botomizer Mr. <hi>Grigorie Brandon,</hi> a man very well experienc<g ref="char:EOLhyphen"/>ed in that practice, or by applying their cupping Glaſſes <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> diligent ſearch and inquiſitiue Jntelligence, for the drawing forth the active deſignes and miſchievous plots of others, whereby at the leaſt no dangers might come to others, if no cures could be acquired to them, depriving a third ſort of
+<pb facs="tcp:156601:3"/>their meanes and Jnſtruments (to wit) their ſtore of Armes plenty of Ammunition, ſuperfluity of Revennues the many props and ſupporters of that diſeaſe, by the helpe whereof they were not onely upon tearmes to have kept up that ma<g ref="char:EOLhyphen"/>lady even after its <hi>Cricis,</hi> but to have allured others into a partnerſhip of it</p>
+            <p>This courſe (thankes be firſt to God and then to the ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ill of thoſe never enough worthily prayſed Artiſts) hath in a ſhort time, wrought ſuch a Pappy abatement of that plague, that as farre as wee can learne by the weekely Bills of intel<g ref="char:EOLhyphen"/>ligence, it is to outward view of the world, as touching the rage of it, and any feare of ſuddayne groweth or ſpreading thereof, cleane ceaſed, yet the better to compaſſe the uttter extirpation of it; and be no more annoyed with <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> knowing that it is the nature of the moſt viprous diſeaſe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lthough the head be taken off, and doe not appeare to the Eye) for dread of of the Remedies which are ſo contrary to it, and which ſhee hath found for prevalent againſt it, it may, nay and doth notwithſtanding leave ſome Rellique and ſome ſmatch in the Patient, which out of the quallity of that rot<g ref="char:EOLhyphen"/>ten corruption, deſires to reſide in the body til the next Spring, when perhaps ſome Plannet may raigne more pro<g ref="char:EOLhyphen"/>pitious unto it, the party thus infected, may be detected, that ſo either torally cured (which is very hard) by reaſon of it's <hi>Morbus a Traduce,</hi> moſt commonly an hereditary infirmi<g ref="char:EOLhyphen"/>ty taken from Father or Mother, Grandmother, and ſome<g ref="char:EOLhyphen"/>time a pinne or two higher, and therefore beloved of the child who in an humble blind obedient manner embraceth it becauſe theirs, not becauſe true, or openly deſcerned and re<g ref="char:EOLhyphen"/>jected, I have though it neceſſary to give the deſcription of him in this following diſcourſe.</p>
+            <p>A Church Papiſt, or a cloſe popiſh Proteſtant, or if you will an Hippocritticall temporizing feſtered Romaniſt, is a Papiſt lately ſcared (though not out of that Jdolatry) yet out of the vſe, and free exerciſe of it, by the Weekely Diur<g ref="char:EOLhyphen"/>nals of the proceedings of this Parliament, which he reades and obſerves more out of reaſon then affection, which having
+<pb facs="tcp:156601:4"/>well pondered, and how neere he may juſtly feare they will come up to him, remaining in <hi>ſtatu Quo,</hi> he preſently alte<g ref="char:EOLhyphen"/>reth his Coppie, but not his tenure, his profeſſion, but not his reſolution, he leapes into our Church for protection, but not for inſtruction, for ſafeguard not ſalvation, like Cattell that in the heate of Summer betake themſelves under Trees for ſhade, not for paſture, Camelion like he declares no na<g ref="char:EOLhyphen"/>turall colour of his owne, but borroweth it of the ſtanding whereon he is mounted, he comes to the Church to Act, not learne, to be ſeene that ſometimes he is there, not to be Ca<g ref="char:EOLhyphen"/>tachized what he had proffited there, he makes and accounts the Church his Stage, not his Temple, the Preacher his ſpec<g ref="char:EOLhyphen"/>tator, nor his informer, much leſſe his reformer, A Gentle<g ref="char:EOLhyphen"/>man he <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be at the leaſt, for if he have not a Roman noſe, you may be ſure if ever occaſion ſerve, he will make ſhew, and proofe of a Roman heart, and reaſons be hath for what he doth, ſome whereof may be knowne, ſome may not, ſome of which reſpect Rome, ſome <hi>Weſtminſter,</hi> the Pope hath granted him a Bull of diſpenſation upon theſe conditions, to heare Maſſe every day faſting next his heart, ſecurely in his Cloſſet, to maintaine a Prieſt or Jeſuite upon his owne coſt, if he be able, if not to contribute ſo much unto it (according to his Aſſeſſement) in his holineſſes Vicar Generalls Booke, he ſhall be found in ability to be conſtantly the Popes obe<g ref="char:EOLhyphen"/>dient Sonne, in all awefull obſequiouſneſſe and mentall reſer<g ref="char:EOLhyphen"/>vation, <hi>Rebus ſit ſtantibus,</hi> the Kings loyall Subject, and ſeeing it would be inconvenient if no diſadvantagious unto him; to to ſhew himſelfe otherwiſe, and not onely to favour, but to further all Stratagems, not in perſon alone but by Proxie, that he may by the benediction of the Tripled Crowne, the aſſiſtance of the Devill and the indefatigableneſſe of the Jeſuits (thoſe dextorous unmatchable Engineers of Plors, and Hel<g ref="char:EOLhyphen"/>liſh practizes) be ſet a foote againe, for the rearing and re<g ref="char:EOLhyphen"/>payring of this weather beaten Ship of ſuperſtition, in the Climaterical yeare of Papacie and Epiſcopacie.</p>
+            <p>Theſe are the Reaſons and Arguments from <hi>Rome,</hi> that in<g ref="char:EOLhyphen"/>duce him to try what the Jnſide of our Church may be made
+<pb facs="tcp:156601:4"/>of, upon the conditions rehearſed, provided, he be well kept, and in points thus Armed and foreſtalled, why the good La<g ref="char:EOLhyphen"/>dy adviſeth him to yeeld to the times for a ſeaſon until God ſhall ſend better dayes, and he is contented to hearken to them, But as the above mentioned cauſes of diſpenſetion, and indulgency, perſwade and incline, ſo the reaſons from <hi>Weſt<g ref="char:EOLhyphen"/>minſter</hi> drive him thither, The World God be thanked is come to that good paſſe that they muſt needs goe, whom the Parliament drives, his eſtate is at ſtake, pared and ſhared al<g ref="char:EOLhyphen"/>ready by the continuall foſtering of the Roman Horſe-Lee<g ref="char:EOLhyphen"/>ches, whoſe voyce is ſtill give, give, to whom there not one<g ref="char:EOLhyphen"/>ly goes a continuall Annuity for their proper maintenance here at home, but a large ſhare to <hi>Doway</hi> and St. <hi>Omare</hi> a<g ref="char:EOLhyphen"/>broad.</p>
+            <p>But now to pay the King for his Recuſancy, his 20. l <hi>per</hi> moneth, of which, as ſquares are likely to goe, he hopes for little abatements to pay all Subſidies fifteens, and other Tapes double conſidering the reaſon of the great occaſions the King hath for money how thicke they come, alas it would make a great hole, (if not cleane digge through) his eſtate: There<g ref="char:EOLhyphen"/>fore he muſt venter now to Church, he hath occaſion like<g ref="char:EOLhyphen"/>wiſe unto <hi>London,</hi> pethaps unto the Queens Court, I doe not ſay unto her Chappell, The Proclamation for the deparaure of all convict Recuſants that refuſe to come to Church, at leaſt 15. myles from <hi>London;</hi> is ſtrict, and the penalty certaine, Therefore he will firſt goe to Church to ſatisfie the Procla<g ref="char:EOLhyphen"/>mation, and afterwards about his buſineſſe to <hi>London,</hi> to Court, or where elſe, he is none of them the Proclamation mentions, he is excepted.</p>
+            <p>A third cauſe is by going to Church ſomewhat perhaps more ordinarily then he needs to doe, he brings himſelfe in<g ref="char:EOLhyphen"/>to ſome confidence with his neighbours in the Countrey, and takes away all ſuſpition and heedfull eyes off from him, no man now ſo taking notice or obſerving who they be that comes to him by which means he may carry buſineſſes more cleanly and improve the Catholique cauſe more coveatly and ſecurely, Theſe be the cauſes of his admittance into our Church, though hardly into the Congregation.</p>
+            <pb facs="tcp:156601:5"/>
+            <p> The cauſes unknowne, it is not fit we ſhould underſtand but leave them to himſelfe and his Ghoſtly Father.</p>
+            <p>The Symptomes of ſuch an infected perſon having nothing about him of ſoundneſſe, but a meere painted ſpecies, which are theſe.</p>
+            <p>You ſhall be ſure to have him conſtantly at Church upon Holidayes, but ſeldome or never upon the Sabboth day, he loves a life to heare out all the ſervice, read out by the Cu<g ref="char:EOLhyphen"/>rate at large, and highly commends him for his devout rea<g ref="char:EOLhyphen"/>ding, he thinkes it hath ſome Aſſinity with the Maſſe, and liketh it never the worſe for that, when that is ended, he be<g ref="char:EOLhyphen"/>gins to be ill, he hath ſate ſo long in the cold, or bareheaded, and muſt be excuſed for not ſtaying the Sermon, he will receive the Communion at the moſt but once a yeare, and be ſure at ſuch a time that the moſt and beſt of the Pariſh ſhall take notice of him, at what time he will be content (yee with much ſhew of Infirmity) to heare the Sermon, he likes well of the <hi>Proteſtation,</hi> but dares not take it, becauſe there is mention made of the maintaining of the Doctrine of the Church of <hi>England,</hi> but not of the Diſcipline which he eſtee<g ref="char:EOLhyphen"/>meth, equall if not tranſcendent to the booke of Articles, gueſſing as he conceives whence it had its Originall.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
